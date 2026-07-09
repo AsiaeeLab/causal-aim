@@ -5,3 +5,6 @@ data/raw/
 figures/
 auto/
 *.log
+data/2018/
+data/*.csv
+data/*.npz
